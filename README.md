@@ -1,8 +1,8 @@
-### `System.out.println("Hello there!")`
+### `print!("Hello there!");`
 
 - 👋 Hi, I’m @bifacial
-- 👀 I’m interested in Java, Javascript, css, html, rust
-- 🌱 I’m currently learning Rust and Svelte
+- 👀 I’m interested in Java, Rust, Kotlin
+- 🌱 I’m currently learning Rust and Svelte (and Fabric)
 - 📫 Reach me on discord @bifacial_ or via email: jessen.david@icloud.com
 
 
